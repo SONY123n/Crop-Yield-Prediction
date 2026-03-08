@@ -1,0 +1,5 @@
+taipy
+numpy
+joblib
+scikit-learn
+pandas
